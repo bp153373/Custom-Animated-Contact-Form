@@ -15,7 +15,7 @@ How to install
 ---- Save it! -----
 - Go, in your wp-admin, to your advanced options where you can add custom CSS and custom scripts (for me this was Flatsome > Advanced).
 - Copy and paste the CSS from the 'style.css' file into the 'Custom CSS' area. (for me this was Flatsome > Advanced > Custom CSS)
-- Copy and paste everything from 'script.js' into the custom script area (footer script). (for me this was Flatsome > Advanced > Global Settings > Footer Scripts)
+- Copy and paste everything from 'script.js' (OR use 'script-stop.js' if you don't want the form to return after sending) into the custom script area (footer script). (for me this was Flatsome > Advanced > Global Settings > Footer Scripts)
 ------ Save All Changes! -----
 
 Place the form on your Page.
@@ -23,3 +23,6 @@ Place the form on your Page.
 Notes:
 - You can customize to your liking in the Custom CSS.
 - Free for use and customization.
+
+UPDATES:
+- Added script stop to prevent the form from returning after send. (refresh page to bring back)
