@@ -9,7 +9,7 @@ I wanted to use an animated form to fit an animated website. Here I'll offer the
 
 How to install
 
-- Download the .zip and open the files in a code editor.
+- Download the .zip and open the files in an editor.
 - Go to your wp-admin and find and click Contact > Add New. Give the new Form a Title to your liking.
 - Copy and paste all the code from 'index.html' and paste it into 'Form'.
 ---- Save it! -----
