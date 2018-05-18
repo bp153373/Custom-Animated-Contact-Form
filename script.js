@@ -16,7 +16,6 @@ jQuery(function() {
 // ****************************************
 
 jQuery('.contact-send').click(function(){
-	jQuery(".form-send-success").css("display", "block");
   jQuery(this).parents('.form-wrapper').addClass('is-sent');
 	
 	setTimeout(function(){
